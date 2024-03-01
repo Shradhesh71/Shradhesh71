@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen interest in web development, specifically focusing on Backend technologies.
 
 ## 👀 Interests
+- BlockChain Development
 - Web Development
 - Backend Technologies
 - Open Source Projects
