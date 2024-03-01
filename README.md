@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen 
 - Open Source Projects
 
 ## 🌱 Currently Learning
-I'm in the process of mastering advanced backend modules, diving deep into topics such as [WebRTC, Redis].
+I'm currently mastering advanced backend modules, delving into topics like [WebRTC, Redis], and blockchain development.
 
 ## 💞️ Collaboration
 I'm actively seeking opportunities to collaborate on exciting projects, especially interested in participating in the Google Summer of Code (GSOC).
@@ -22,7 +22,7 @@ Feel free to reach out to me via email at shradeshjain123@gmail.com. I'm open to
 I bring a mix of technical expertise and creativity to my work. With a strong background in backend development, I enjoy transforming creative ideas into strong, scalable solutions. Currently, I am the Campus Ambassador for Geeks for Geeks and a Junior Developer at Google Developer Student Clubs, focusing on backend development. My dedication to excellence is evident in the impactful projects I take on, demonstrating not only technical skill but also a drive for innovation. I am eager to contribute my skills and passion, and am committed to making a lasting impact in the technology field.
 
 **Skills:**
-- Languages: JavaScript, TypeScript, NodeJS
+- Languages: JavaScript, TypeScript, NodeJS, Solidity, GraphQL
 - Frameworks: ReactJS, NextJs
 - Databases: MongodB
 
