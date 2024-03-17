@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen 
 - Open Source Projects
 
 ## 🌱 Currently Learning
-I'm currently mastering advanced backend modules, delving into topics like [WebRTC, Redis], and blockchain development.
+I'm currently mastering advanced backend modules<!---, delving into topics like [WebRTC, Redis],-->, Web3 and blockchain development.
 
 ## 💞️ Collaboration
 I'm actively seeking opportunities to collaborate on exciting projects, especially interested in participating in the Google Summer of Code (GSOC).
