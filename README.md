@@ -25,7 +25,7 @@ I bring a mix of technical expertise and creativity to my work. With a strong ba
 **Skills:**
 - Languages: JavaScript, TypeScript, NodeJS, Solidity, GraphQL
 - Frameworks: ReactJS, NextJs
-- Databases: MongodB
+- Databases: MongodB, MySQL
 
 **Projects:**
 - https://github.com/Shradhesh71?tab=repositories
@@ -34,7 +34,7 @@ I bring a mix of technical expertise and creativity to my work. With a strong ba
 - I am a sophomore pursuing a B.Tech in Electronics and Communication Engineering at IIIT Surat
 
 **Certifications:**
-- https://www.linkedin.com/in/shradesh-jodawat-147730265/details/certifications/
+- [Click here](https://www.linkedin.com/in/shradesh-jodawat-147730265/details/certifications/)
 <!---
 **Contribution Stats:**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shradhesh71&show_icons=true&theme=radical)  --->
