@@ -1,6 +1,17 @@
-- # 👋 Hi, I’m @Shradhesh71
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Shradesh Welcome to my Profile! animated typed out">
 
 Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen interest in web development, specifically focusing on Backend technologies.
+
+### Connect with me🌐
+<div align="left">
+  <a href="https://www.instagram.com/shradesh_jain71/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="Nishitbaria@gmail.com" target="_blank">
+  <a href="[https://www.linkedin.com/in/nishitbaria/](https://www.linkedin.com/in/shradesh-jain-147730265/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## 👀 Interests
 - BlockChain Development
@@ -13,6 +24,16 @@ I'm currently mastering advanced backend modules<!---, delving into topics like 
 
 ## 💞️ Collaboration
 I'm actively seeking opportunities to collaborate on exciting projects, especially interested in participating in the Google Summer of Code (GSOC).
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
+<p align="center">
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shradhesh71&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+	
+	
+</details>
+</p>
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via email at shradeshjain123@gmail.com. I'm open to discussions, collaboration, or just a friendly chat about anything related to technology and development.
