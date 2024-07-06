@@ -5,12 +5,17 @@ Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen 
 ### Connect with me🌐
 <div align="left">
   <a href="https://www.instagram.com/shradesh_jain71/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="Nishitbaria@gmail.com" target="_blank">
-  <a href="[https://www.linkedin.com/in/nishitbaria/](https://www.linkedin.com/in/shradesh-jain-147730265/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
+  </a> &nbsp;
+  <a href="[https://www.linkedin.com/in/shradesh-jain-147730265/](https://www.linkedin.com/in/shradesh-jain-147730265/)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"/>
+  </a> &nbsp;
+  <a href="[https://x.com/Shradeshjain835](https://x.com/Shradeshjain835)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X"/>
+  </a> &nbsp;
+ <a href="[https://discord.com/invite/mUwy5MJc](https://discord.com/invite/mUwy5MJc)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
+  </a> &nbsp;
 </div>
 
 ## 👀 Interests
