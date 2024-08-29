@@ -1,6 +1,6 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=+Hey%2C+I'm+Shradesh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Shradesh Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=995&height=50&lines=&nbsp;&nbsp;+Hey%2C+I'm+Shradhesh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Shradesh Welcome to my Profile! animated typed out">
 
-Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen interest in web development, specifically focusing on Backend technologies.
+A passionate individual with a keen interest in web development, specifically focusing on Backend technologies.
 
 ### Connect with me🌐
 <div align="left">
@@ -18,55 +18,54 @@ Welcome to my GitHub profile! I'm Shradesh, a passionate individual with a keen 
   </a> &nbsp;
 </div>
 
-## 👀 Interests
-- BlockChain Development
-- Web Development
-- Backend Technologies
-- Open Source Projects
+## About Me
+- 💻 Full-stack JavaScript Developer with experience in modern frontend and backend technologies.
+- 🚀 Proficient in Next.js, Node.js, Nest.js and Express.js.
+- 🌐 Enthusiast of blockchain technology, working on smart contracts and decentralized applications (dApps).
+- 📊 Experienced in TypeScript for building scalable and maintainable codebases.
+- 🔧 Skilled in using tools like Webpack, Vite, and ESLint to enhance development efficiency and code quality.
+- 📚 Continuously learning Rust to expand my backend and blockchain development expertise.
+
 
 ## 🌱 Currently Learning
 I'm currently mastering advanced backend modules<!---, delving into topics like [WebRTC, Redis],-->, Web3 and blockchain development.
 
-## 💞️ Collaboration
-I'm actively seeking opportunities to collaborate on exciting projects, especially interested in participating in the Google Summer of Code (GSOC).
-
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <p align="center">
-	
+
+![Shradhesh71's Stats](https://github-readme-stats.vercel.app/api?username=Shradhesh71&theme=vue-dark&show_icons=true&&count_private=true)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shradhesh71&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Shradhesh71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shradhesh71&theme=vue-dark)
 	
 	
 </details>
 </p>
 
-## 📫 How to Reach Me
-Feel free to reach out to me via email at shradeshjain123@gmail.com. I'm open to discussions, collaboration, or just a friendly chat about anything related to technology and development.
+## Let's Connect!
+- 🌟 Open to new opportunities, especially in the Web3 and blockchain space.
+- 📫 Feel free to reach out for collaborations, blockchain projects, or just to chat about the latest in web development!
+
+  
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Nest Js](https://img.shields.io/badge/Nest-%23000000.svg?style=for-the-badge&logo=nestjs&logoColor=red)  ![Solidity](https://img.shields.io/badge/Solidity-%23007BCC.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=purple) ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=blue) 
+
 
 ---
-
-**About Me:**
-I bring a mix of technical expertise and creativity to my work. With a strong background in backend development, I enjoy transforming creative ideas into strong, scalable solutions. Currently, I am the Campus Ambassador for Geeks for Geeks and a Junior Developer at Google Developer Student Clubs, focusing on backend development. My dedication to excellence is evident in the impactful projects I take on, demonstrating not only technical skill but also a drive for innovation. I am eager to contribute my skills and passion, and am committed to making a lasting impact in the technology field.
-
-**Skills:**
-- Languages: JavaScript, TypeScript, NodeJS, Solidity, GraphQL
-- Frameworks: ReactJS, NextJs
-- Databases: MongodB, MySQL
-
 **Projects:**
 - https://github.com/Shradhesh71?tab=repositories
 
-**Education:**
-- I am a sophomore pursuing a B.Tech in Electronics and Communication Engineering at IIIT Surat
-
 **Certifications:**
 - [Click here](https://www.linkedin.com/in/shradesh-jodawat-147730265/details/certifications/)
+
 <!---
 **Contribution Stats:**
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shradhesh71&show_icons=true&theme=radical)  --->
 
-I'm enthusiastic about leveraging technology to solve real-world problems and always eager to explore new opportunities. Let's connect and create something amazing together!
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Shradhesh71&label=Profile%20views&color=0e75b6&style=flat" alt="Shradhesh71" />
+</p>
 
 <!---
 Shradhesh71/Shradhesh71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
