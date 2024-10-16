@@ -20,7 +20,7 @@ A passionate individual with a keen interest in web development, specifically fo
 
 ## About Me
 - 💻 Full-stack TypeScript Developer with experience in modern frontend and backend technologies.
-- 🚀 Proficient in Next.js, Node.js, Nest.js and Express.js.
+- 🚀 Proficient in Next.js, Node.js, NestJs.
 - 🌐 Enthusiast of blockchain technology, working on smart contracts and decentralized applications (dApps).
 - 📊 Experienced in TypeScript for building scalable and maintainable codebases.
 - 🔧 Skilled in using tools like Webpack, Vite, and ESLint to enhance development efficiency and code quality.
