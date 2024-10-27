@@ -24,11 +24,13 @@ A passionate individual with a keen interest in web development, specifically fo
 - 🌐 Enthusiast of blockchain technology, working on smart contracts and decentralized applications (dApps).
 - 📊 Experienced in TypeScript for building scalable and maintainable codebases.
 - 🔧 Skilled in using tools like Webpack, Vite, and ESLint to enhance development efficiency and code quality.
-- 📚 Continuously learning Rust to expand my backend and blockchain development expertise.
+- 📚 Building key Rust skills through a capstone project in Solana smart contracts, with a solid understanding of Solidity for creating Ethereum contracts.
+- 🔒 Strong foundation in cryptography and security protocols for safe blockchain development.
 
 
 ## 🌱 Currently Learning
-I'm currently mastering advanced backend modules<!---, delving into topics like [WebRTC, Redis],-->, Web3 and blockchain development.
+🚀 Mastering advanced backend modules, Web3, and blockchain development. <br/>
+📜 Building skills in blockchain app design, smart contract implementation, and transaction optimization
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
