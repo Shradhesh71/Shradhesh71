@@ -1,6 +1,6 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=995&height=50&lines=&nbsp;&nbsp;+Hey%2C+I'm+Shradhesh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Shradesh Welcome to my Profile! animated typed out">
 
-A passionate individual with a keen interest in web development, specifically focusing on Backend technologies.
+A passionate individual with a keen interest in web3 development, specifically focusing on Backend technologies.
 
 ### Connect with me🌐
 <div align="left">
@@ -40,7 +40,8 @@ A passionate individual with a keen interest in web development, specifically fo
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shradhesh71&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Shradhesh71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shradhesh71&theme=vue-dark)
-	
+
+*My stats reflect only my public repositories; I have many private ones as well.
 	
 </details>
 </p>
@@ -51,7 +52,24 @@ A passionate individual with a keen interest in web development, specifically fo
 
   
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Nest Js](https://img.shields.io/badge/Nest-%23000000.svg?style=for-the-badge&logo=nestjs&logoColor=red)  ![Solidity](https://img.shields.io/badge/Solidity-%23007BCC.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=purple) ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=blue) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Nest Js](https://img.shields.io/badge/Nest-%23000000.svg?style=for-the-badge&logo=nestjs&logoColor=red)  
+![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=purple) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23007BCC.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-%23000000.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![Solana](https://img.shields.io/badge/Solana-%23000000.svg?style=for-the-badge&logo=Solana&logoColor=blue) 
+![Ethereum](https://img.shields.io/badge/Ethereum-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white) 
+![Arweave](https://img.shields.io/badge/Arweave-%23000000.svg?style=for-the-badge&logo=arweave&logoColor=white) 
+![filecoin](https://img.shields.io/badge/filecoin-%23000000.svg?style=for-the-badge&logo=filecoin&logoColor=white) 
+![IPFS](https://img.shields.io/badge/IPFS-%23000000.svg?style=for-the-badge&logo=IPFS&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=blue) 
 
 
 ---
