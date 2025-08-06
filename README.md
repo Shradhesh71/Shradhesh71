@@ -34,23 +34,23 @@
 ```rust
 fn main() {
     let skills = vec![
-        Skill::new("TypeScript", Level::FullStack, vec!["Next.js", "Node.js", "NestJs"]),
-        Skill::new("Blockchain", Level::Expert, vec!["Smart Contracts", "dApps", "Web3"]),
-        Skill::new("Tools", Level::Proficient, vec!["Webpack", "Vite", "ESLint"]),
+        Skill::new("Blockchain", Level::Expert, vec!["Defi", "Smart Contracts", "dApps", "Web3"]),
         Skill::new("Rust", Level::Building, vec!["Solana Smart Contracts"]),  
-        Skill::new("Solidity", Level::Established, vec!["Ethereum Contracts"]),
+        Skill::new("Programs", Level::Established, vec!["Anchor, Pinocchio"]),
+        Skill::new("TypeScript", Level::FullStack, vec!["Next.js", "Node.js", "NestJs"]),
+        Skill::new("Tools", Level::Proficient, vec!["Webpack", "Vite", "ESLint"]),
         Skill::new("Security", Level::Active, vec!["Cryptography", "Blockchain Protocols"]),
     ];
     
     println!("Developer profile loaded successfully!");
-    println!("Specialized in: Backend technologies & Web3 development");
+    println!("Specialized in: Smart Contract development & Backend technologies");
 }
 
 // Output:
 // 🚀 Full-stack TypeScript Developer with modern frontend & backend experience
 // 🌐 Blockchain technology expertise with smart contracts and dApps implementation
 // 🔧 Development toolkit mastery enhancing efficiency and code quality
-// 🦀 Building Rust skills through Solana smart contract capstone projects
+// 🦀 Building Rust skills through Solana smart contract projects
 // 📊 Strong foundation in cryptography and security protocols
 ```
 
